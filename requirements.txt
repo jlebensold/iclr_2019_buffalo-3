@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+torch
+torchvision
+tensorboardX
+fire
+matplotlib
+tensorflow
+tensorboard
