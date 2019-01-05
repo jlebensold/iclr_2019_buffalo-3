@@ -1,5 +1,9 @@
-# README
+# Team Name: Buffalo^3     
+- Vincent Luczkow           
+- Jonathan Maloney-Lebensold
+- Yi Feng Yan               
 
+# Usage
 General usage:
 
     python comparisons.py run_denmo $dset $dilations $erosions $epochs
